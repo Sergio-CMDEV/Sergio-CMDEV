@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I am Sergio
 
-<!--
-**Sergio-CMDEV/Sergio-CMDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on full-stack development, with a strong background in databases, software engineering, and modern web technologies.
+I enjoy solving problems, breaking code (and then fixing it), and learning how to build scalable applications.  
 
-Here are some ideas to get you started:
+Fun fact: My `debugging skills > my sleeping schedule`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-CMDEV&show_icons=true&theme=tokyonight)
+
+---
