@@ -20,6 +20,17 @@ Fun fact: `My debugging skills > my sleeping schedule`.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)](#) 
+[![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)](#) 
+[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)](#) 
+[![JPQL](https://img.shields.io/badge/JPQL-007396?logo=java&logoColor=white)](#) 
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)](#) 
+[![n8n](https://img.shields.io/badge/n8n-EC008C?logo=n8n&logoColor=white)](#) 
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#) 
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](#) 
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)](#) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#) 
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](#)
 
 ---
 
