@@ -1,4 +1,4 @@
-# Hello <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaXdweDVpeW5iNW5xMnI0eTEybnQzcDk4djMweW1mbXcxMTlnN284YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NJPnpyrRvscLyAD8VM/200w.gif" width="50px">
+# Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVsNmJqMXd1aGNzcjM5Z2F1czA0d2hhZ2dyM2J3bGkycmVvczJzOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ztisqLhP99tVSHG136/giphy.gif" width="30px">
 
 My name is Sergio, I'm from Albacete, Spain
 
@@ -33,14 +33,3 @@ Fun fact: `My debugging skills > my sleeping schedule`.
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](#)
 
 ---
-
-### 📊 GitHub Stats
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-CMDEV&show_icons=true&theme=tokyonight)
-
-### 📊 Top Langs
-![Sergi's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-CMDEV&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sergio-CMDEV&theme=radical&no-frame=false&no-bg=false&margin-w=4)
