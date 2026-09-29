@@ -1,4 +1,4 @@
-# Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVsNmJqMXd1aGNzcjM5Z2F1czA0d2hhZ2dyM2J3bGkycmVvczJzOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ztisqLhP99tVSHG136/giphy.gif" width="30px">
+# Hello <img src="https://media.giphy.com/media/ztisqLhP99tVSHG136/giphy.gif" width="30">
 
 My name is Sergio, I'm from Albacete, Spain
 
